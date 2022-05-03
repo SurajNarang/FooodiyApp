@@ -1,0 +1,48 @@
+{
+  "source": "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/NewView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Format: City Name, Country"
+      },
+      {
+        "comment": "",
+        "key": "Search"
+      },
+      {
+        "comment": "",
+        "key": "Use Current Location"
+      },
+      {
+        "comment": "",
+        "key": "Type of Cuisine: "
+      },
+      {
+        "comment": "",
+        "key": "Mediterranean, Mexican, etc."
+      },
+      {
+        "comment": "",
+        "key": "Location: "
+      },
+      {
+        "comment": "",
+        "key": "College Park, United States"
+      },
+      {
+        "comment": "",
+        "key": "Showing results for: %@, %@"
+      },
+      {
+        "comment": "",
+        "key": "Showing results for: %@"
+      },
+      {
+        "comment": "",
+        "key": "Fooodify"
+      }
+    ]
+  },
+  "version": 1
+}

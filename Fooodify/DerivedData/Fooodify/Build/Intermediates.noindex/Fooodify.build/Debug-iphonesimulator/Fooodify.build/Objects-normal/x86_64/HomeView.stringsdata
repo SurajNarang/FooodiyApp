@@ -1,0 +1,44 @@
+{
+  "source": "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Fooodify"
+      },
+      {
+        "comment": "",
+        "key": "Add Preference"
+      },
+      {
+        "comment": "",
+        "key": "Type of Cuisine: "
+      },
+      {
+        "comment": "",
+        "key": "Mediterranean, Mexican, etc."
+      },
+      {
+        "comment": "",
+        "key": "Location: "
+      },
+      {
+        "comment": "",
+        "key": "City Name Only ex: College Park"
+      },
+      {
+        "comment": "",
+        "key": "Confirm Deletion"
+      },
+      {
+        "comment": "",
+        "key": "Do you really want to delete %@?"
+      },
+      {
+        "comment": "",
+        "key": "Delete"
+      }
+    ]
+  },
+  "version": 1
+}

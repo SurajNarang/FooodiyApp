@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1651005214, 763966083]
+build_end_time: [1651005222, 107760906]
+inputs:
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/FooodifyApp.swift": [1648756620, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Model/FetchData.swift": [1650935419, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Model/Food.swift": [1650565754, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/AddView.swift": [1649005197, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/ContentView.swift": [1649901323, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/HomeScreen.swift": [1650935809, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/HomeView.swift": [1649943074, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/HomeViewModel.swift": [1648687322, 0]
+  "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/NewView.swift": [1650224807, 0]

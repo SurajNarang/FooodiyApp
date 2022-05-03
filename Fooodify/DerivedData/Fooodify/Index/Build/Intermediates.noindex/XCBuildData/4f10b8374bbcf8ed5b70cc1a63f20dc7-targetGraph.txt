@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Fooodify in Fooodify, no dependencies
+Fooodify in Fooodify, no dependencies
+FooodifyTests in Fooodify, depends on:
+Fooodify in Fooodify (explicit)
+FooodifyTests in Fooodify, depends on:
+Fooodify in Fooodify (explicit)
+FooodifyTests in Fooodify, no dependencies
+FooodifyUITests in Fooodify, depends on:
+Fooodify in Fooodify (explicit)
+FooodifyUITests in Fooodify, depends on:
+Fooodify in Fooodify (explicit)
+FooodifyUITests in Fooodify, no dependencies

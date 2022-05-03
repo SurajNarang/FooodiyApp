@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct FooodifyApp: App {
+    @StateObject var prefList: Food = Food()
+    //@State private var doAddCuisine: Bool = false
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(/*isShowing: $doAddCuisine*/).environmentObject(prefList)
         }
     }
 }

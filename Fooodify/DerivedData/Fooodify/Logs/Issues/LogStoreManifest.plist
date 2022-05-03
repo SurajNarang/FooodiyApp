@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>F04D1870-1B12-477A-9351-3EEE2CB6DFE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F04D1870-1B12-477A-9351-3EEE2CB6DFE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Fooodify-gpyepqfcvipptychoibkcubstnuh</string>
+			<key>timeStartedRecording</key>
+			<real>673126981.884179</real>
+			<key>timeStoppedRecording</key>
+			<real>673126984.13520002</real>
+			<key>title</key>
+			<string>Build target Fooodify</string>
+			<key>uniqueIdentifier</key>
+			<string>F04D1870-1B12-477A-9351-3EEE2CB6DFE7</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

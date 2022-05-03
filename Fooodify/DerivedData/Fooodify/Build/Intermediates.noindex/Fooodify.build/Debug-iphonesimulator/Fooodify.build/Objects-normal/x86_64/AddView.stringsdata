@@ -1,0 +1,28 @@
+{
+  "source": "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/AddView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add Preference"
+      },
+      {
+        "comment": "",
+        "key": "Type of Cuisine: "
+      },
+      {
+        "comment": "",
+        "key": "Mediterranean, Mexican, etc."
+      },
+      {
+        "comment": "",
+        "key": "Location: "
+      },
+      {
+        "comment": "",
+        "key": ""
+      }
+    ]
+  },
+  "version": 1
+}

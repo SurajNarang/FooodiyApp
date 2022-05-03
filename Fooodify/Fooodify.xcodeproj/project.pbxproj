@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		977FA69127F4D46400002E26 /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977FA69027F4D46400002E26 /* Food.swift */; };
+		977FA69527F62FBC00002E26 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977FA69427F62FBC00002E26 /* AddView.swift */; };
+		977FA69727F9FB3600002E26 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977FA69627F9FB3600002E26 /* HomeView.swift */; };
+		977FA69927F9FBE300002E26 /* NewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977FA69827F9FBE300002E26 /* NewView.swift */; };
+		97978CCF28178026008FAD5A /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97978CCE28178026008FAD5A /* HomeScreen.swift */; };
+		97ADD2F6281892B5003848E0 /* FetchData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97ADD2F5281892B5003848E0 /* FetchData.swift */; };
 		BA6172E227D6B5AE00E83754 /* FooodifyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6172E127D6B5AE00E83754 /* FooodifyApp.swift */; };
 		BA6172E427D6B5AE00E83754 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6172E327D6B5AE00E83754 /* ContentView.swift */; };
 		BA6172E627D6B5B100E83754 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA6172E527D6B5B100E83754 /* Assets.xcassets */; };
@@ -14,8 +20,6 @@
 		BA6172F327D6B5B200E83754 /* FooodifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6172F227D6B5B200E83754 /* FooodifyTests.swift */; };
 		BA6172FD27D6B5B200E83754 /* FooodifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6172FC27D6B5B200E83754 /* FooodifyUITests.swift */; };
 		BA6172FF27D6B5B200E83754 /* FooodifyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6172FE27D6B5B200E83754 /* FooodifyUITestsLaunchTests.swift */; };
-		BA61731427E3AD6700E83754 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA61731327E3AD6700E83754 /* Home.swift */; };
-		BA61731627E3AD9900E83754 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA61731527E3AD9900E83754 /* HomeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		977FA69027F4D46400002E26 /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
+		977FA69427F62FBC00002E26 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		977FA69627F9FB3600002E26 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		977FA69827F9FBE300002E26 /* NewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewView.swift; sourceTree = "<group>"; };
+		97978CCE28178026008FAD5A /* HomeScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeScreen.swift; path = Fooodify/Views/HomeScreen.swift; sourceTree = SOURCE_ROOT; };
+		97ADD2F5281892B5003848E0 /* FetchData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FetchData.swift; sourceTree = "<group>"; };
 		BA6172DE27D6B5AE00E83754 /* Fooodify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fooodify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA6172E127D6B5AE00E83754 /* FooodifyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooodifyApp.swift; sourceTree = "<group>"; };
 		BA6172E327D6B5AE00E83754 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -46,8 +56,6 @@
 		BA6172F827D6B5B200E83754 /* FooodifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FooodifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA6172FC27D6B5B200E83754 /* FooodifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooodifyUITests.swift; sourceTree = "<group>"; };
 		BA6172FE27D6B5B200E83754 /* FooodifyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooodifyUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		BA61731327E3AD6700E83754 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
-		BA61731527E3AD9900E83754 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +83,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		977FA69227F62DDD00002E26 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				97978CCE28178026008FAD5A /* HomeScreen.swift */,
+				BA6172E327D6B5AE00E83754 /* ContentView.swift */,
+				977FA69427F62FBC00002E26 /* AddView.swift */,
+				977FA69627F9FB3600002E26 /* HomeView.swift */,
+				977FA69827F9FBE300002E26 /* NewView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		977FA69327F62E1000002E26 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				97ADD2F5281892B5003848E0 /* FetchData.swift */,
+				977FA69027F4D46400002E26 /* Food.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		BA6172D527D6B5AE00E83754 = {
 			isa = PBXGroup;
 			children = (
@@ -98,11 +127,9 @@
 		BA6172E027D6B5AE00E83754 /* Fooodify */ = {
 			isa = PBXGroup;
 			children = (
-				BA61730E27E3A8F600E83754 /* ViewModel */,
-				BA61730D27E3A8E700E83754 /* Model */,
-				BA61730C27E3A8E200E83754 /* View */,
+				977FA69327F62E1000002E26 /* Model */,
 				BA6172E127D6B5AE00E83754 /* FooodifyApp.swift */,
-				BA6172E327D6B5AE00E83754 /* ContentView.swift */,
+				977FA69227F62DDD00002E26 /* Views */,
 				BA6172E527D6B5B100E83754 /* Assets.xcassets */,
 				BA6172E727D6B5B100E83754 /* Preview Content */,
 			);
@@ -132,29 +159,6 @@
 				BA6172FE27D6B5B200E83754 /* FooodifyUITestsLaunchTests.swift */,
 			);
 			path = FooodifyUITests;
-			sourceTree = "<group>";
-		};
-		BA61730C27E3A8E200E83754 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				BA61731327E3AD6700E83754 /* Home.swift */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		BA61730D27E3A8E700E83754 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		BA61730E27E3A8F600E83754 /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-				BA61731527E3AD9900E83754 /* HomeViewModel.swift */,
-			);
-			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -287,10 +291,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				977FA69527F62FBC00002E26 /* AddView.swift in Sources */,
 				BA6172E427D6B5AE00E83754 /* ContentView.swift in Sources */,
+				977FA69127F4D46400002E26 /* Food.swift in Sources */,
+				977FA69927F9FBE300002E26 /* NewView.swift in Sources */,
+				97978CCF28178026008FAD5A /* HomeScreen.swift in Sources */,
+				977FA69727F9FB3600002E26 /* HomeView.swift in Sources */,
+				97ADD2F6281892B5003848E0 /* FetchData.swift in Sources */,
 				BA6172E227D6B5AE00E83754 /* FooodifyApp.swift in Sources */,
-				BA61731427E3AD6700E83754 /* Home.swift in Sources */,
-				BA61731627E3AD9900E83754 /* HomeViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -451,6 +459,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Fooodify/Preview Content\"";
+				DEVELOPMENT_TEAM = CFX9FH73LD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Allow Location Access for Foods Nearby";
@@ -459,6 +468,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFO_PLIST_KEY_NSLocationWhenInUseUsageDescription = "Allow Location Access for Foods Nearby";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -480,6 +490,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Fooodify/Preview Content\"";
+				DEVELOPMENT_TEAM = CFX9FH73LD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Allow Location Access for Foods Nearby";
@@ -488,6 +499,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFO_PLIST_KEY_NSLocationWhenInUseUsageDescription = "Allow Location Access for Foods Nearby";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/aadilshekh/cmsc436_group_project/nextbigthing/Fooodify/Fooodify/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About"
+      },
+      {
+        "comment": "",
+        "key": "Home"
+      },
+      {
+        "comment": "",
+        "key": "Location"
+      }
+    ]
+  },
+  "version": 1
+}
